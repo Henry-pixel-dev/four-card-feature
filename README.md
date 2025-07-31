@@ -41,4 +41,6 @@ This project helped me strengthen my understanding of **CSS Grid**, especially:
 [https://github.com/Henry-pixel-dev/four-card-feature.git]
 
 **Live Site**
-[https://henry-pixel-dev.github.io/four-card-feature/]
+[Click here to view the live site](https://henry-pixel-dev.github.io/four-card-feature/)
+
+Any suggestion on how i can improve are welcome!
